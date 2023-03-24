@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react, nestjs, laravel**
 
-- 📫 How to reach me **ikmalshahzann@gmail.xom**
+- 📫 How to reach me **ikmalshahzann@gmail.com**
 
 - ⚡ Fun fact **I think I'm cool**
 
