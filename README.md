@@ -11,9 +11,6 @@
 
 - ⚡ Fun fact **I listen to rock music**
 
-- I just graduated!
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e49eacaa-35ea-4cb2-8cdc-3a1ebc919150" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ikmalshahzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikmalshahzan" height="30" width="40" /></a>
